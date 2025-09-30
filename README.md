@@ -12,6 +12,6 @@
 #### Major Enemy: Tanks with special abilities 
 
 
-### Use Dorman’s Machinations to simulate and balance the main mechanic in your game. The simulation should use at least 6 elements from the framework. For an outstanding answer, include an Artificial Player to demonstrate one or more strategies. Also, generate relevant graphs to illustrate the behaviour/balance characteristics of the mechanic. 
+Use Dorman’s Machinations to simulate and balance the main mechanic in your game. The simulation should use at least 6 elements from the framework. For an outstanding answer, include an Artificial Player to demonstrate one or more strategies. Also, generate relevant graphs to illustrate the behaviour/balance characteristics of the mechanic. 
 
 
